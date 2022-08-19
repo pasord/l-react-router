@@ -1,0 +1,30 @@
+header {
+  color: skyblue;
+  font-style: oblique;
+}
+
+.menu {
+  padding: 20px;
+  color: cadetblue;
+  font-weight: bold;
+  border-bottom: 1px dashed darkgoldenrod;
+}
+
+.menu i {
+  margin: 0 10px;
+}
+.menu-btns {
+  padding: 16px 0;
+}
+.menu-btns button {
+  margin-right: 4px;
+}
+
+.layout {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px dashed slategrey;
+}
+
+
+
